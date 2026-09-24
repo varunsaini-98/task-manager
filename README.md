@@ -1,6 +1,7 @@
 ## Assignments: 
 ### Notes App(frontend + backend) = https://github.com/varunsaini-98/notes-app.git
-### Image upload feature = 
+### Image upload feature = https://github.com/varunsaini-98/multer-image-upload.git
+
 # TaskFlow - MERN Task Management System
 
 TaskFlow is a robust, full-stack MERN (MongoDB, Express.js, React, Node.js) application designed for enterprise task tracking, team collaboration, and workflow management. It provides role-based access control, allowing Administrators to assign tasks and manage team members while enabling Employees to execute and update their task pipeline seamlessly.
