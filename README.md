@@ -1,5 +1,5 @@
 ## Assignments: 
-### Notes App(frontend + backend) = https://github.com/varunsaini-98/notes-app.git
+### ToDo App(frontend + backend) = https://github.com/varunsaini-98/todo-app.git
 ### Image upload feature = https://github.com/varunsaini-98/multer-image-upload.git
 
 # TaskFlow - MERN Task Management System
